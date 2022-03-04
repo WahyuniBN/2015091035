@@ -2,3 +2,4 @@ Tugas Pemmob
 1. instal GitHub
 2. Buat akun
 3. Coba 
+4. buat respositori dengan nim
